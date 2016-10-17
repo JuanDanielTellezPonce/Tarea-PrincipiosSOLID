@@ -1,4 +1,4 @@
-				Principios S.O.L.I.D
+						Principios S.O.L.I.D
 
 Son cinco principios fundamentales, uno por cada letra, que hablan del diseño orientado a
 objetos en términos de la gestión de dependencias. Las dependencias entre unas clases y 
